@@ -1,6 +1,6 @@
 # Wordle Solver
 
-This repository contains a Jupyter notebook called `wordle.ipynb` that builds a decision tree that can be used to solve [Wordle](https://www.nytimes.com/games/wordle/index.html) games. It also shows how to traverse this decision tree using a simple user interface. A second notebook called `wordle_app.ipynb` only contains this user interface simple user interface and load the decision tree from from. You can run `wordle_app.ipynb` using Voila to turn it into a standalone web app.
+This repository contains a Jupyter notebook called `wordle.ipynb` that builds a decision tree that can be used to solve [Wordle](https://www.nytimes.com/games/wordle/index.html) games. It also shows how to traverse this decision tree using a simple user interface. A second notebook called `wordle_app.ipynb` only contains this user interface and loads the decision tree from file. You can run `wordle_app.ipynb` using Voila to turn this solver into a standalone web app.
 
 ## Getting Started
 
