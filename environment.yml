@@ -1,0 +1,13 @@
+name: wordle-solver
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - voila
+  - python=3.8
+  - ipywidgets
+  - notebook
+
